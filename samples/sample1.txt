@@ -1,0 +1,3 @@
+This is a sample text file.
+It contains several words, some repeated.
+The word counter should process this correctly.

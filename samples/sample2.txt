@@ -1,0 +1,16 @@
+This is a sample text file for testing the word counter.
+It contains several words, some of which are repeated.
+The quick brown fox jumps over the lazy dog.
+Repeat words help test the counter's accuracy.
+
+Welcome to the Word Counter Project!
+
+This project is designed to help you count the number of words in a given text. Word counting is a fundamental task in text processing and analysis. Whether you're working on a school project, analyzing large datasets, or simply curious about the number of words in a document, this tool is here to assist you.
+
+The Word Counter Project can handle various types of text input, including paragraphs, essays, articles, and more. It is capable of processing text efficiently and providing accurate word counts. Additionally, this project can be extended to include features such as counting characters, sentences, and even paragraphs.
+
+Word counting is widely used in applications such as search engine optimization (SEO), content creation, and academic research. By understanding the word count of a document, you can gain insights into its structure, readability, and overall length.
+
+Feel free to test this project with different types of text and explore its capabilities. The Word Counter Project is a great way to learn about text processing and improve your programming skills.
+
+Thank you for using the Word Counter Project!
